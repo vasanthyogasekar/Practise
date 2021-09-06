@@ -1,0 +1,7 @@
+tests\Test_LoginPage.class
+tests\Test_HomePage.class
+pages\HomePage.class
+base\Driver.class
+base\BaseFunctions.class
+constants\Constants.class
+pages\PreLogin.class

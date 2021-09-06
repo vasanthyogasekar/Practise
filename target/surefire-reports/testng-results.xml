@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-06T07:21:57Z" name="Practise" finished-at="2021-09-06T07:22:14Z" duration-ms="16981">
+    <groups>
+    </groups>
+    <test started-at="2021-09-06T07:21:57Z" name="Practise test" finished-at="2021-09-06T07:22:14Z" duration-ms="16981">
+      <class name="tests.Test_HomePage">
+        <test-method is-config="true" signature="diverInitialization()[pri:0, instance:tests.Test_HomePage@2fa7ae9]" started-at="2021-09-06T12:51:57Z" name="diverInitialization" finished-at="2021-09-06T12:52:07Z" duration-ms="9318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- diverInitialization -->
+        <test-method signature="check_notificacation_icon()[pri:0, instance:tests.Test_HomePage@2fa7ae9]" started-at="2021-09-06T12:52:07Z" name="check_notificacation_icon" finished-at="2021-09-06T12:52:07Z" duration-ms="495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_notificacation_icon -->
+        <test-method signature="check_LeaveType_Items()[pri:0, instance:tests.Test_HomePage@2fa7ae9]" started-at="2021-09-06T12:52:07Z" name="check_LeaveType_Items" finished-at="2021-09-06T12:52:09Z" duration-ms="2247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_LeaveType_Items -->
+        <test-method signature="check_title()[pri:0, instance:tests.Test_HomePage@2fa7ae9]" started-at="2021-09-06T12:52:07Z" name="check_title" finished-at="2021-09-06T12:52:08Z" duration-ms="1343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_title -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.Test_HomePage@2fa7ae9]" started-at="2021-09-06T12:52:09Z" name="teardown" finished-at="2021-09-06T12:52:09Z" duration-ms="54" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.Test_HomePage -->
+      <class name="tests.Test_LoginPage">
+        <test-method is-config="true" signature="diverInitialization()[pri:0, instance:tests.Test_LoginPage@7577b641]" started-at="2021-09-06T12:52:08Z" name="diverInitialization" finished-at="2021-09-06T12:52:14Z" duration-ms="5486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- diverInitialization -->
+        <test-method signature="check_Login_button()[pri:0, instance:tests.Test_LoginPage@7577b641]" started-at="2021-09-06T12:52:14Z" name="check_Login_button" finished-at="2021-09-06T12:52:14Z" duration-ms="161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_Login_button -->
+        <test-method signature="check_login_field()[pri:1, instance:tests.Test_LoginPage@7577b641]" started-at="2021-09-06T12:52:14Z" name="check_login_field" finished-at="2021-09-06T12:52:14Z" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_login_field -->
+        <test-method signature="check_password_field()[pri:2, instance:tests.Test_LoginPage@7577b641]" started-at="2021-09-06T12:52:14Z" name="check_password_field" finished-at="2021-09-06T12:52:14Z" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_password_field -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:tests.Test_LoginPage@7577b641]" started-at="2021-09-06T12:52:14Z" name="teardown" finished-at="2021-09-06T12:52:14Z" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- tests.Test_LoginPage -->
+    </test> <!-- Practise test -->
+  </suite> <!-- Practise -->
+</testng-results>
